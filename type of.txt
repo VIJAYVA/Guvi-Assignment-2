@@ -1,0 +1,12 @@
+Execute the below code and write your description in txt file
+
+typeof(1)=>In JavaScript, Number is a numeric data type.
+
+typeof(1.1)=> its a number.
+typeof('1.1')=> Number.
+typeof(true)=> Boolean.
+typeof(null)=> Object.
+typeof(undefined)=>The data type of a variable that has not been assigned a value is also undefined.
+typeof([])=> Object
+typeof({})=> Object.
+typeof(NaN)=> 'number', even if it is Not a Number.

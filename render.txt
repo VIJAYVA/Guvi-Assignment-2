@@ -1,0 +1,7 @@
+How does the browser actually render a website:
+
+1)When a web page is loaded, the browser first reads the HTML text and constructs DOM Tree from it. 
+2)Then it processes the CSS whether that is inline, embedded, or external CSS and constructs the CSSOM Tree from it. 
+3)After these trees are constructed, then it constructs the Render-Tree from it.
+4)process used in web development that turns website code into the interactive pages users see when they visit a website.
+5)The term generally refers to the use of HTML, CSS, and JavaScript codes. 
